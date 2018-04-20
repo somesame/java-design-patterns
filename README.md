@@ -13,7 +13,7 @@
 
 # Introduction
 
-#简介
+# 简介
 
 Design patterns are formalized best practices that the programmer can use to
 solve common problems when designing an application or system.
@@ -61,7 +61,7 @@ patterns by any of the following approaches
 
 # How to contribute
 
-#如何贡献
+# 如何贡献
 
 If you are willing to contribute to the project you will find the relevant information in our [developer wiki](https://github.com/iluwatar/java-design-patterns/wiki). We will help you and answer your questions in the [Gitter chatroom](https://gitter.im/iluwatar/java-design-patterns).
 
@@ -69,7 +69,7 @@ If you are willing to contribute to the project you will find the relevant infor
 
 # License
 
-#许可
+# 许可
 
 This project is licensed under the terms of the MIT license.
 
